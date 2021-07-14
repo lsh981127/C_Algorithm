@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\lsh98\OneDrive\바탕 화면\main.c(55,15): warning C4013: 'strtol'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\lsh98\OneDrive\바탕 화면\main.c(62,6): warning C4013: 'gets'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\lsh98\OneDrive\바탕 화면\main.c(73,8): warning C4013: 'system'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  Project1.vcxproj -> C:\Users\lsh98\OneDrive\바탕 화면\Project1\Debug\Project1.exe
