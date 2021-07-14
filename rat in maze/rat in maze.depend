@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1587019814 source:c:\users\sh981\desktop\rat in maze\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
